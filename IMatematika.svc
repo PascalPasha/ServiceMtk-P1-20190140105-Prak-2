@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ServiceMtk_P1_20190140105.Service1" CodeBehind="IMatematika.svc.cs" %>
